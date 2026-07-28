@@ -1,0 +1,30 @@
+{
+  "experiment": "exp_1",
+  "kappa": 10.0,
+  "r_star": 0.1,
+  "W_target": 5000.0,
+  "D": 436.7651884897201,
+  "A_stationary": 0.04784934440189529,
+  "xi_asymmetry_mean_abs": 0.0037608817198842123,
+  "approximation_errors_bp": {
+    "approx_A": {
+      "max_abs_bp": 39.624909333766844,
+      "mean_abs_bp": 2.4357382823116898
+    },
+    "approx_B": {
+      "max_abs_bp": 34.67603951609388,
+      "mean_abs_bp": 3.286465192866152
+    },
+    "approx_C": {
+      "max_abs_bp": 40.0670840349803,
+      "mean_abs_bp": 2.1316867504104122
+    },
+    "approx_D": {
+      "max_abs_bp": 42.27480336171715,
+      "mean_abs_bp": 2.400303507348232
+    }
+  },
+  "exact_hjb_ask_at_q0": -0.3477803864754467,
+  "exact_hjb_hr_at_q0": 0.1930249147284823,
+  "exact_hjb_xi_at_q0": 1.0004237909317553
+}

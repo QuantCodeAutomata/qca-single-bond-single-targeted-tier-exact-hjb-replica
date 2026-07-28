@@ -1,0 +1,68 @@
+{
+  "experiment": "exp_3",
+  "kappa": 100.0,
+  "expected_hit_ratio_no_background": 0.09519935034469762,
+  "expected_hit_ratio_with_background": 0.0971363112601315,
+  "background_ratio_study": [
+    {
+      "bg_scale": 0.09999999999999999,
+      "expected_hit_ratio": 0.09574644323536308
+    },
+    {
+      "bg_scale": 0.16378937069540642,
+      "expected_hit_ratio": 0.09602540415213971
+    },
+    {
+      "bg_scale": 0.2682695795279726,
+      "expected_hit_ratio": 0.0963449959188379
+    },
+    {
+      "bg_scale": 0.43939705607607904,
+      "expected_hit_ratio": 0.0966680012497867
+    },
+    {
+      "bg_scale": 0.7196856730011519,
+      "expected_hit_ratio": 0.09696254808210523
+    },
+    {
+      "bg_scale": 1.178768634793587,
+      "expected_hit_ratio": 0.09721174320065959
+    },
+    {
+      "bg_scale": 1.9306977288832496,
+      "expected_hit_ratio": 0.09741186459666469
+    },
+    {
+      "bg_scale": 3.162277660168379,
+      "expected_hit_ratio": 0.09756643023236967
+    },
+    {
+      "bg_scale": 5.17947467923121,
+      "expected_hit_ratio": 0.09768219210946766
+    },
+    {
+      "bg_scale": 8.483428982440715,
+      "expected_hit_ratio": 0.09776743083096608
+    },
+    {
+      "bg_scale": 13.894954943731374,
+      "expected_hit_ratio": 0.09783072497926003
+    },
+    {
+      "bg_scale": 22.758459260747887,
+      "expected_hit_ratio": 0.09787949265902524
+    },
+    {
+      "bg_scale": 37.275937203149375,
+      "expected_hit_ratio": 0.09791902605182083
+    },
+    {
+      "bg_scale": 61.054022965853264,
+      "expected_hit_ratio": 0.09795250013058879
+    },
+    {
+      "bg_scale": 100.0,
+      "expected_hit_ratio": 0.09798154750441497
+    }
+  ]
+}

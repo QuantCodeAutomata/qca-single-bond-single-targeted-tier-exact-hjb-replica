@@ -1,0 +1,58 @@
+{
+  "experiment": "exp_4",
+  "kappa": 10.0,
+  "rho_main": 0.8,
+  "A_matrix_rho08": [
+    [
+      0.11397926693651429,
+      0.03147113508782835
+    ],
+    [
+      0.03147113508782835,
+      0.0468029541663697
+    ]
+  ],
+  "D_diagonal": [
+    43.67652176840001,
+    436.7651884897201
+  ],
+  "ask_surface_center_bp": 0.26269015858338174,
+  "correlation_study": [
+    {
+      "rho": -0.8,
+      "expected_hit_ratio": 0.07601799576726358
+    },
+    {
+      "rho": -0.6,
+      "expected_hit_ratio": 0.07390245340509229
+    },
+    {
+      "rho": -0.4,
+      "expected_hit_ratio": 0.0720596341725367
+    },
+    {
+      "rho": -0.2,
+      "expected_hit_ratio": 0.07055654279128763
+    },
+    {
+      "rho": 0.0,
+      "expected_hit_ratio": 0.07173502080495114
+    },
+    {
+      "rho": 0.2,
+      "expected_hit_ratio": 0.07049984224376785
+    },
+    {
+      "rho": 0.4,
+      "expected_hit_ratio": 0.07136562711103131
+    },
+    {
+      "rho": 0.6,
+      "expected_hit_ratio": 0.07247637360722407
+    },
+    {
+      "rho": 0.8,
+      "expected_hit_ratio": 0.07638734541049681
+    }
+  ]
+}

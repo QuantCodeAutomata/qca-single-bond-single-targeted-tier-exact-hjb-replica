@@ -1,0 +1,52 @@
+[
+  {
+    "kappa": 0.1,
+    "expected_hit_ratio": 0.07071658466703305,
+    "expected_objective": 260.1868215113289,
+    "spread_capture": 309.144052125067,
+    "inventory_penalty": 48.694344202702766,
+    "hit_ratio_penalty": 0.2628864110353023,
+    "A_stationary": 0.04784934440189529,
+    "D": 436.7651884897201
+  },
+  {
+    "kappa": 1.0,
+    "expected_hit_ratio": 0.07271825376677041,
+    "expected_objective": 257.95725939932674,
+    "spread_capture": 309.7115473780586,
+    "inventory_penalty": 49.460343629016236,
+    "hit_ratio_penalty": 2.2939443497156273,
+    "A_stationary": 0.04784934440189529,
+    "D": 436.7651884897201
+  },
+  {
+    "kappa": 10.0,
+    "expected_hit_ratio": 0.0844123523267515,
+    "expected_objective": 245.83072005245108,
+    "spread_capture": 307.63561324945834,
+    "inventory_penalty": 54.050620852135715,
+    "hit_ratio_penalty": 7.754272344871538,
+    "A_stationary": 0.04784934440189529,
+    "D": 436.7651884897201
+  },
+  {
+    "kappa": 100.0,
+    "expected_hit_ratio": 0.09725142792369666,
+    "expected_objective": 233.23947042893687,
+    "spread_capture": 295.3652000313021,
+    "inventory_penalty": 59.5840174503686,
+    "hit_ratio_penalty": 2.5417121519966135,
+    "A_stationary": 0.04784934440189529,
+    "D": 436.7651884897201
+  },
+  {
+    "kappa": 1000.0,
+    "expected_hit_ratio": 0.09970472370512773,
+    "expected_objective": 230.80077897662662,
+    "spread_capture": 291.87451862875764,
+    "inventory_penalty": 60.776253813383875,
+    "hit_ratio_penalty": 0.29748583874714984,
+    "A_stationary": 0.04784934440189529,
+    "D": 436.7651884897201
+  }
+]
